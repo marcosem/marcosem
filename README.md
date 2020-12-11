@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IBM
+- 🔭 I’m currently working on <img width=64 src="https://i.giphy.com/media/ZaWp7ALLaZW9ECJ5bc/source.gif" alt="IBM" />
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/marcos-mathias-a03a9943/
 
