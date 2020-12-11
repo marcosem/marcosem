@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**marcosem/marcosem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey you! Welcome to my place! 👋
 
 Here are some ideas to get you started:
 
@@ -17,5 +14,3 @@ Here are some ideas to get you started:
 <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosem&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=1800&locale=en&alt="marcosem" />
 
 </p>
-
--->
