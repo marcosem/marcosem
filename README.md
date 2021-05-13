@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at <img width=64 src="https://i.giphy.com/media/ZaWp7ALLaZW9ECJ5bc/source.gif" alt="IBM" />
+- 🔭 I’m currently working at Workload Pricer/zPricer as Business Analyst
 - 💬 Ask me about Node, React, Javascript, Typescript
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently improving my skills in Typescript
 - 📫 How to reach me:
 https://w3.ibm.com/bluepages/profile.html?uid=103357631
 https://www.linkedin.com/in/marcos-mathias-a03a9943/
