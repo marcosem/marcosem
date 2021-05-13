@@ -6,7 +6,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Node, React, Javascript, Typescript
 - 🌱 I’m currently improving my skills in Typescript
 - 📫 How to reach me:
+
 https://w3.ibm.com/bluepages/profile.html?uid=103357631
+
 https://www.linkedin.com/in/marcos-mathias-a03a9943/
 
 <hr>
